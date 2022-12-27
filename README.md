@@ -6,7 +6,7 @@
 * Software developer at <a href="https://www.hiteamgenesis.com">Genesis Team</a>
 
 
-##  📫 How to reach me ...
+## How to reach me
 <code><a href="https://www.linkedin.com/in/gablop00/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 <code><a href = "mailto:gla280900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>

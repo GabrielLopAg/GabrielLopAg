@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <code><a href = "mailto:gla280900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLopAg&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

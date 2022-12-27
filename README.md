@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Telematics Enginner at <a href="[https://www.aliatuniversidades.com.mx/uvg/](https://www.ipn.mx)">Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Telematics Enginner at <a href="https://www.ipn.mx">Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Software developer at <a href="https://talentum.space/">Talentum Space</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 

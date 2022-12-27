@@ -1,4 +1,4 @@
-### Hi, Gabriel López 👋
+### Hi, I'm Gabriel López 👋
 
 <!--
 **GabrielLopAg/GabrielLopAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Telematics Enginner at <a href="https://www.aliatuniversidades.com.mx/uvg/">UVG - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Telematics Enginner at <a href="[https://www.aliatuniversidades.com.mx/uvg/](https://www.ipn.mx)">Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Software developer at <a href="https://talentum.space/">Talentum Space</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <code><a href = "mailto:gla280900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

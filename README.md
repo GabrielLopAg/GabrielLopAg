@@ -11,6 +11,8 @@
 <code><a href = "mailto:gla280900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC352A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </code>
  
+ /*
  ## Stats
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLopAg&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+*/

@@ -2,8 +2,7 @@
 
 
 * I'm currently studying Telematics Enginner at <a href="https://www.ipn.mx">Instituto Politécnico Nacional</a>
-* Software developer at <a href="https://talentum.space/">Talentum Space
-* Software developer at <a href="https://www.hiteamgenesis.com">Genesis Team</a>
+* Software engineer at <a href="https://talentum.space/">Talentum Space
 
 
 ## How to reach me

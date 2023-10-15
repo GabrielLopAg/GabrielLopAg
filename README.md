@@ -2,7 +2,7 @@
 
 
 * I'm currently studying Telematics Enginner at <a href="https://www.ipn.mx">Instituto Politécnico Nacional</a>
-* Software engineer at <a href="https://talentum.space/">Talentum Space
+* Operations Intern at Uber
 
 
 ## How to reach me
